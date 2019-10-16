@@ -1,0 +1,6 @@
+/home/kesse/DoomFire/.mono/temp/bin/Tools/DoomFire.dll
+/home/kesse/DoomFire/.mono/temp/bin/Tools/DoomFire.pdb
+/home/kesse/DoomFire/.mono/temp/obj/Tools/DoomFire.csprojAssemblyReference.cache
+/home/kesse/DoomFire/.mono/temp/obj/Tools/DoomFire.csproj.CoreCompileInputs.cache
+/home/kesse/DoomFire/.mono/temp/obj/Tools/DoomFire.dll
+/home/kesse/DoomFire/.mono/temp/obj/Tools/DoomFire.pdb
